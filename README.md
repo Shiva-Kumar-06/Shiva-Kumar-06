@@ -33,5 +33,5 @@ Check out my repositories to explore my coding projects and learning journey.
 
 ## 📫 Connect With Me
 
-- GitHub: Add your GitHub profile link here
+- GitHub: https://github.com/Shiva-Kumar-06
 - Email: Add your professional email here
